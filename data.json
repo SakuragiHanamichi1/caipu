@@ -1,0 +1,234 @@
+{
+   "newslist": [
+        {
+            "name": "果皮",
+            "type": 2,
+            "index": 6169
+        },
+        {
+            "name": "太阳眼镜",
+            "type": 3,
+            "index": 3184
+        },
+        {
+            "name": "口红",
+            "type": 3,
+            "index": 1592
+        },
+        {
+            "name": "富士苹果",
+            "type": 2,
+            "index": 1592
+        },
+        {
+            "name": "方便面包装袋",
+            "type": 3,
+            "index": 1592
+        },
+        {
+            "name": "台式电脑",
+            "type": 0,
+            "index": 1194
+        },
+        {
+            "name": "二手手机",
+            "type": 0,
+            "index": 796
+        },
+        {
+            "name": "保健品瓶子",
+            "type": 1,
+            "index": 796
+        },
+        {
+            "name": "包裹着狗屎的塑料袋",
+            "type": 3,
+            "index": 796
+        },
+        {
+            "name": "卫生纸",
+            "type": 3,
+            "index": 796
+        },
+        {
+            "name": "南瓜子壳",
+            "type": 2,
+            "index": 597
+        },
+        {
+            "name": "头发",
+            "type": 3,
+            "index": 597
+        },
+        {
+            "name": "纸巾",
+            "type": 3,
+            "index": 597
+        },
+        {
+            "name": "鼠标",
+            "type": 0,
+            "index": 597
+        },
+        {
+            "name": "iPhone",
+            "type": 0,
+            "index": 398
+        },
+        {
+            "name": "可降解垃圾袋",
+            "type": 2,
+            "index": 398
+        },
+        {
+            "name": "宠物屎垫",
+            "type": 3,
+            "index": 398
+        },
+        {
+            "name": "干净饮料瓶",
+            "type": 0,
+            "index": 398
+        },
+        {
+            "name": "干花生壳",
+            "type": 2,
+            "index": 398
+        },
+        {
+            "name": "水果",
+            "type": 2,
+            "index": 398
+        },
+        {
+            "name": "83消毒液瓶",
+            "type": 3,
+            "index": 199
+        },
+        {
+            "name": "A3纸",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "HDMI线",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "KFC食物包装",
+            "type": 3,
+            "index": 199
+        },
+        {
+            "name": "LED手电筒",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "一次性塑料袋",
+            "type": 3,
+            "index": 199
+        },
+        {
+            "name": "乐扣玻璃盒",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "乳液罐",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "充电牙刷",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "充电电池",
+            "type": 1,
+            "index": 199
+        },
+        {
+            "name": "双眼皮贴",
+            "type": 3,
+            "index": 199
+        },
+        {
+            "name": "可乐罐",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "吊坠",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "啤酒瓶",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "快递纸箱",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "手机壳",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "抽纸塑料袋",
+            "type": 3,
+            "index": 199
+        },
+        {
+            "name": "显示器屏幕",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "柚子核",
+            "type": 2,
+            "index": 199
+        },
+        {
+            "name": "橘子皮",
+            "type": 2,
+            "index": 199
+        },
+        {
+            "name": "牛仔裤",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "电视机",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "电风扇",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "笔记本电脑",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "金属首饰",
+            "type": 0,
+            "index": 199
+        },
+        {
+            "name": "雨伞",
+            "type": 0,
+            "index": 199
+        }
+    ]
+}
